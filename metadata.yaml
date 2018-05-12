@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41111'
     url: http://www.gutenberg.org/2009/agents/41111
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41319#The-Inner-ConsciousnessHow-to-awaken-and-direct-it
 gutenberg_issued: '2012-11-08'
 gutenberg_type: Text
 identifiers:
